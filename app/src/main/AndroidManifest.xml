@@ -17,6 +17,7 @@
         android:theme="@style/Theme.GpsMapAppAngelo"
         tools:targetApi="31">
 
+
         <meta-data
             android:name="com.google.android.geo.API_KEY"
             android:value="AIzaSyAf7UhJizVK-CJX-S3viN37l1Kg-ODwq_w" />
